@@ -78,10 +78,10 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://avatars.githubusercontent.com'
+img_cdn: 'https://x64nik.github.io'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/u/56338502?s=400&u=4f5d688ad59557bf99088325fa0c3c35fa07824f&v=4'
+avatar: '/assets/img/favicons/x64nik.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true

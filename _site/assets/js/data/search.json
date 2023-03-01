@@ -1,11 +1,11 @@
 [
   
   {
-    "title": "My New Post",
-    "url": "/posts/my-new-post/",
+    "title": "Hack The Box: Stocker Walkthrough",
+    "url": "/posts/hack-the-box-stocker-walkthrough/",
     "categories": "",
     "tags": "",
-    "date": "2023-02-28 03:24:25 +0800",
+    "date": "2023-03-02 03:46:00 +0800",
     
 
 
@@ -18,11 +18,11 @@
   },
   
   {
-    "title": "blog1",
-    "url": "/posts/blog1/",
-    "categories": "Malware",
-    "tags": "Malware",
-    "date": "2023-02-28 03:04:00 +0800",
+    "title": "MongoDB cheetsheet",
+    "url": "/posts/mongodb-cheetsheet/",
+    "categories": "DBMS",
+    "tags": "MongoDB",
+    "date": "2023-02-28 15:19:00 +0800",
     
 
 
@@ -30,8 +30,8 @@
 
 
     
-    "snippet": "",
-    "content": ""
+    "snippet": "MongoDB Cheat SheetShow All Databasesshow dbsShow Current DatabasedbCreate Or Switch Databaseuse acmeDropdb.dropDatabase()Create Collectiondb.createCollection('posts')Show Collectionsshow collectio...",
+    "content": "MongoDB Cheat SheetShow All Databasesshow dbsShow Current DatabasedbCreate Or Switch Databaseuse acmeDropdb.dropDatabase()Create Collectiondb.createCollection('posts')Show Collectionsshow collectionsInsert Rowdb.posts.insert({  title: 'Post One',  body: 'Body of post one',  category: 'News',  tags: ['news', 'events'],  user: {    name: 'John Doe',    status: 'author'  },  date: Date()})Insert Multiple Rowsdb.posts.insertMany([  {    title: 'Post Two',    body: 'Body of post two',    category: 'Technology',    date: Date()  },  {    title: 'Post Three',    body: 'Body of post three',    category: 'News',    date: Date()  },  {    title: 'Post Four',    body: 'Body of post three',    category: 'Entertainment',    date: Date()  }])Get All Rowsdb.posts.find()Get All Rows Formatteddb.posts.find().pretty()Find Rowsdb.posts.find({ category: 'News' })Sort Rows# ascdb.posts.find().sort({ title: 1 }).pretty()# descdb.posts.find().sort({ title: -1 }).pretty()Count Rowsdb.posts.find().count()db.posts.find({ category: 'news' }).count()Limit Rowsdb.posts.find().limit(2).pretty()Chainingdb.posts.find().limit(2).sort({ title: 1 }).pretty()Foreachdb.posts.find().forEach(function(doc) {  print(\"Blog Post: \" + doc.title)})Find One Rowdb.posts.findOne({ category: 'News' })Find Specific Fieldsdb.posts.find({ title: 'Post One' }, {  title: 1,  author: 1})Update Rowdb.posts.update({ title: 'Post Two' },{  title: 'Post Two',  body: 'New body for post 2',  date: Date()},{  upsert: true})Update Specific Fielddb.posts.update({ title: 'Post Two' },{  $set: {    body: 'Body for post 2',    category: 'Technology'  }})Increment Field ($inc)db.posts.update({ title: 'Post Two' },{  $inc: {    likes: 5  }})Rename Fielddb.posts.update({ title: 'Post Two' },{  $rename: {    likes: 'views'  }})Delete Rowdb.posts.remove({ title: 'Post Four' })Sub-Documentsdb.posts.update({ title: 'Post One' },{  $set: {    comments: [      {        body: 'Comment One',        user: 'Mary Williams',        date: Date()      },      {        body: 'Comment Two',        user: 'Harry White',        date: Date()      }    ]  }})Find By Element in Array ($elemMatch)db.posts.find({  comments: {     $elemMatch: {       user: 'Mary Williams'       }    }  })Add Indexdb.posts.createIndex({ title: 'text' })Text Searchdb.posts.find({  $text: {    $search: \"\\\"Post O\\\"\"    }})Greater &amp; Less Thandb.posts.find({ views: { $gt: 2 } })db.posts.find({ views: { $gte: 7 } })db.posts.find({ views: { $lt: 7 } })db.posts.find({ views: { $lte: 7 } })Creditshttps://gist.github.com/bradtraversy"
   }
   
 ]

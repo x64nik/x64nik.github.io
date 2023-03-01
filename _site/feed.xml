@@ -4,7 +4,7 @@
   <id>http://0.0.0.0/</id>
   <title>x64nik</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2023-02-28T03:32:10+08:00</updated>
+  <updated>2023-03-02T03:50:45+08:00</updated>
   <author>
     <name>x64nik</name>
     <uri>http://0.0.0.0/</uri>
@@ -20,14 +20,14 @@
 
   
   <entry>
-    <title>My New Post</title>
-    <link href="http://0.0.0.0/posts/my-new-post/" rel="alternate" type="text/html" title="My New Post" />
-    <published>2023-02-28T03:24:25+08:00</published>
+    <title>Hack The Box: Stocker Walkthrough</title>
+    <link href="http://0.0.0.0/posts/hack-the-box-stocker-walkthrough/" rel="alternate" type="text/html" title="Hack The Box: Stocker Walkthrough" />
+    <published>2023-03-02T03:46:00+08:00</published>
   
-    <updated>2023-02-28T03:24:25+08:00</updated>
+    <updated>2023-03-02T03:46:00+08:00</updated>
   
-    <id>http://0.0.0.0/posts/my-new-post/</id>
-    <content src="http://0.0.0.0/posts/my-new-post/" />
+    <id>http://0.0.0.0/posts/hack-the-box-stocker-walkthrough/</id>
+    <content src="http://0.0.0.0/posts/hack-the-box-stocker-walkthrough/" />
     <author>
       <name>x64nik</name>
     </author>
@@ -53,21 +53,21 @@
 
   
   <entry>
-    <title>blog1</title>
-    <link href="http://0.0.0.0/posts/blog1/" rel="alternate" type="text/html" title="blog1" />
-    <published>2023-02-28T03:04:00+08:00</published>
+    <title>MongoDB cheetsheet</title>
+    <link href="http://0.0.0.0/posts/mongodb-cheetsheet/" rel="alternate" type="text/html" title="MongoDB cheetsheet" />
+    <published>2023-02-28T15:19:00+08:00</published>
   
-    <updated>2023-02-28T03:04:00+08:00</updated>
+    <updated>2023-02-28T15:19:00+08:00</updated>
   
-    <id>http://0.0.0.0/posts/blog1/</id>
-    <content src="http://0.0.0.0/posts/blog1/" />
+    <id>http://0.0.0.0/posts/mongodb-cheetsheet/</id>
+    <content src="http://0.0.0.0/posts/mongodb-cheetsheet/" />
     <author>
       <name>x64nik</name>
     </author>
 
   
     
-    <category term="Malware" />
+    <category term="DBMS" />
     
   
 
@@ -79,8 +79,48 @@
 
 
 
-      
+      MongoDB Cheat Sheet
 
+Show All Databases
+
+show dbs
+
+
+Show Current Database
+
+db
+
+
+Create Or Switch Database
+
+use acme
+
+
+Drop
+
+db.dropDatabase()
+
+
+Create Collection
+
+db.createCollection('posts')
+
+
+Show Collections
+
+show collections
+
+
+Insert Row
+
+db.posts.insert({
+  title: 'Post One',
+  body: 'Body of post one',
+  category: 'News',
+  tags: ['news', 'events'],
+  user: {
+    name: 'John Doe',
+    sta...
     </summary>
   
 

@@ -30,6 +30,7 @@ const resource = [
         '/assets/img/favicons/favicon-32x32.png',
         '/assets/img/favicons/favicon.ico',
         '/assets/img/favicons/mstile-150x150.png',
+        '/assets/img/favicons/x64nik.png',
         '/assets/js/dist/categories.min.js',
         '/assets/js/dist/commons.min.js',
         '/assets/js/dist/home.min.js',
@@ -46,7 +47,7 @@ const allowedDomains = [
     '0.0.0.0:80',
 
     
-        'avatars.githubusercontent.com',
+        'x64nik.github.io',
     
 
     'fonts.gstatic.com',
