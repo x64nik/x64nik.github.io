@@ -44,7 +44,7 @@ const resource = [
 const allowedDomains = [
     
 
-    '0.0.0.0:80',
+    'localhost:4000',
 
     
         'x64nik.github.io',
