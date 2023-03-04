@@ -29,3 +29,4 @@ end
 
 gem 'jekyll-compose', group: [:jekyll_plugins]
 gem 'jekyll-gallery-generator'
+gem 'jekyll-sitemap'

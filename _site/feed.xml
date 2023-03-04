@@ -4,7 +4,7 @@
   <id>http://0.0.0.0:4000/</id>
   <title>x64nik</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2023-03-03T22:23:29+08:00</updated>
+  <updated>2023-03-04T12:41:50+05:30</updated>
   <author>
     <name>x64nik</name>
     <uri>http://0.0.0.0:4000/</uri>
@@ -22,9 +22,9 @@
   <entry>
     <title>Hack The Box: Soccer Walkthrough</title>
     <link href="http://0.0.0.0:4000/posts/hack-the-box-soccer-walkthrough/" rel="alternate" type="text/html" title="Hack The Box: Soccer Walkthrough" />
-    <published>2023-03-03T22:17:00+08:00</published>
+    <published>2023-03-03T19:47:00+05:30</published>
   
-    <updated>2023-03-03T22:17:00+08:00</updated>
+    <updated>2023-03-03T19:47:00+05:30</updated>
   
     <id>http://0.0.0.0:4000/posts/hack-the-box-soccer-walkthrough/</id>
     <content src="http://0.0.0.0:4000/posts/hack-the-box-soccer-walkthrough/" />
@@ -67,9 +67,9 @@ Nmap
   <entry>
     <title>Proving Grounds Labs: Empire-Breakout Walkthrough</title>
     <link href="http://0.0.0.0:4000/posts/proving-grounds-labs-empire-breakout-walkthrough/" rel="alternate" type="text/html" title="Proving Grounds Labs: Empire-Breakout Walkthrough" />
-    <published>2023-03-03T15:39:00+08:00</published>
+    <published>2023-03-03T13:09:00+05:30</published>
   
-    <updated>2023-03-03T15:39:00+08:00</updated>
+    <updated>2023-03-03T13:09:00+05:30</updated>
   
     <id>http://0.0.0.0:4000/posts/proving-grounds-labs-empire-breakout-walkthrough/</id>
     <content src="http://0.0.0.0:4000/posts/proving-grounds-labs-empire-breakout-walkthrough/" />
@@ -107,9 +107,9 @@ First we start with Nmap scan as we can see 3 ports are open 80, 10000, 20000. o
   <entry>
     <title>Hack The Box: Stocker Walkthrough</title>
     <link href="http://0.0.0.0:4000/posts/hack-the-box-stocker-walkthrough/" rel="alternate" type="text/html" title="Hack The Box: Stocker Walkthrough" />
-    <published>2023-03-02T03:46:00+08:00</published>
+    <published>2023-03-02T01:16:00+05:30</published>
   
-    <updated>2023-03-03T18:21:18+08:00</updated>
+    <updated>2023-03-03T15:51:18+05:30</updated>
   
     <id>http://0.0.0.0:4000/posts/hack-the-box-stocker-walkthrough/</id>
     <content src="http://0.0.0.0:4000/posts/hack-the-box-stocker-walkthrough/" />
@@ -140,9 +140,9 @@ First we start with Nmap scan as we can see 3 ports are open 80, 10000, 20000. o
   <entry>
     <title>MongoDB cheetsheet</title>
     <link href="http://0.0.0.0:4000/posts/mongodb-cheetsheet/" rel="alternate" type="text/html" title="MongoDB cheetsheet" />
-    <published>2023-02-28T15:19:00+08:00</published>
+    <published>2023-02-28T12:49:00+05:30</published>
   
-    <updated>2023-03-03T18:21:18+08:00</updated>
+    <updated>2023-03-03T15:51:18+05:30</updated>
   
     <id>http://0.0.0.0:4000/posts/mongodb-cheetsheet/</id>
     <content src="http://0.0.0.0:4000/posts/mongodb-cheetsheet/" />
