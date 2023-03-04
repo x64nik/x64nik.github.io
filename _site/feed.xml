@@ -4,7 +4,7 @@
   <id>http://0.0.0.0:4000/</id>
   <title>x64nik</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2023-03-04T12:49:41+05:30</updated>
+  <updated>2023-03-04T13:12:58+05:30</updated>
   <author>
     <name>x64nik</name>
     <uri>http://0.0.0.0:4000/</uri>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>Hack The Box: Soccer Walkthrough</title>
-    <link href="http://0.0.0.0:4000/posts/hack-the-box-soccer-walkthrough/" rel="alternate" type="text/html" title="Hack The Box: Soccer Walkthrough" />
+    <link href="http://0.0.0.0:4000/htb/2023/03/03/hack-the-box-soccer-walkthrough.html" rel="alternate" type="text/html" title="Hack The Box: Soccer Walkthrough" />
     <published>2023-03-03T19:47:00+05:30</published>
   
     <updated>2023-03-03T19:47:00+05:30</updated>
   
-    <id>http://0.0.0.0:4000/posts/hack-the-box-soccer-walkthrough/</id>
-    <content src="http://0.0.0.0:4000/posts/hack-the-box-soccer-walkthrough/" />
+    <id>http://0.0.0.0:4000/htb/2023/03/03/hack-the-box-soccer-walkthrough.html</id>
+    <content src="http://0.0.0.0:4000/htb/2023/03/03/hack-the-box-soccer-walkthrough.html" />
     <author>
       <name>x64nik</name>
     </author>
@@ -66,13 +66,13 @@ Nmap
   
   <entry>
     <title>Proving Grounds Labs: Empire-Breakout Walkthrough</title>
-    <link href="http://0.0.0.0:4000/posts/proving-grounds-labs-empire-breakout-walkthrough/" rel="alternate" type="text/html" title="Proving Grounds Labs: Empire-Breakout Walkthrough" />
+    <link href="http://0.0.0.0:4000/offseclabs/2023/03/03/proving-grounds-labs-empire-breakout-walkthrough.html" rel="alternate" type="text/html" title="Proving Grounds Labs: Empire-Breakout Walkthrough" />
     <published>2023-03-03T13:09:00+05:30</published>
   
     <updated>2023-03-03T13:09:00+05:30</updated>
   
-    <id>http://0.0.0.0:4000/posts/proving-grounds-labs-empire-breakout-walkthrough/</id>
-    <content src="http://0.0.0.0:4000/posts/proving-grounds-labs-empire-breakout-walkthrough/" />
+    <id>http://0.0.0.0:4000/offseclabs/2023/03/03/proving-grounds-labs-empire-breakout-walkthrough.html</id>
+    <content src="http://0.0.0.0:4000/offseclabs/2023/03/03/proving-grounds-labs-empire-breakout-walkthrough.html" />
     <author>
       <name>x64nik</name>
     </author>
@@ -106,13 +106,13 @@ First we start with Nmap scan as we can see 3 ports are open 80, 10000, 20000. o
   
   <entry>
     <title>Hack The Box: Stocker Walkthrough</title>
-    <link href="http://0.0.0.0:4000/posts/hack-the-box-stocker-walkthrough/" rel="alternate" type="text/html" title="Hack The Box: Stocker Walkthrough" />
+    <link href="http://0.0.0.0:4000/2023/03/02/hack-the-box-stocker-walkthrough.html" rel="alternate" type="text/html" title="Hack The Box: Stocker Walkthrough" />
     <published>2023-03-02T01:16:00+05:30</published>
   
     <updated>2023-03-03T15:51:18+05:30</updated>
   
-    <id>http://0.0.0.0:4000/posts/hack-the-box-stocker-walkthrough/</id>
-    <content src="http://0.0.0.0:4000/posts/hack-the-box-stocker-walkthrough/" />
+    <id>http://0.0.0.0:4000/2023/03/02/hack-the-box-stocker-walkthrough.html</id>
+    <content src="http://0.0.0.0:4000/2023/03/02/hack-the-box-stocker-walkthrough.html" />
     <author>
       <name>x64nik</name>
     </author>
@@ -139,13 +139,13 @@ First we start with Nmap scan as we can see 3 ports are open 80, 10000, 20000. o
   
   <entry>
     <title>MongoDB cheetsheet</title>
-    <link href="http://0.0.0.0:4000/posts/mongodb-cheetsheet/" rel="alternate" type="text/html" title="MongoDB cheetsheet" />
+    <link href="http://0.0.0.0:4000/dbms/2023/02/28/mongodb-cheetsheet.html" rel="alternate" type="text/html" title="MongoDB cheetsheet" />
     <published>2023-02-28T12:49:00+05:30</published>
   
     <updated>2023-03-03T15:51:18+05:30</updated>
   
-    <id>http://0.0.0.0:4000/posts/mongodb-cheetsheet/</id>
-    <content src="http://0.0.0.0:4000/posts/mongodb-cheetsheet/" />
+    <id>http://0.0.0.0:4000/dbms/2023/02/28/mongodb-cheetsheet.html</id>
+    <content src="http://0.0.0.0:4000/dbms/2023/02/28/mongodb-cheetsheet.html" />
     <author>
       <name>x64nik</name>
     </author>

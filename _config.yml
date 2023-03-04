@@ -199,6 +199,13 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-
-plugins: 
+plugins:
   - jekyll-sitemap
+
+
+defaults:
+  -
+    scope:
+      path: "posts/"
+    values:
+      sitemap:         true

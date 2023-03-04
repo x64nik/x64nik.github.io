@@ -2,7 +2,7 @@
   
   {
     "title": "Hack The Box: Soccer Walkthrough",
-    "url": "/posts/hack-the-box-soccer-walkthrough/",
+    "url": "/htb/2023/03/03/hack-the-box-soccer-walkthrough.html",
     "categories": "HTB",
     "tags": "CTF",
     "date": "2023-03-03 19:47:00 +0530",
@@ -19,7 +19,7 @@
   
   {
     "title": "Proving Grounds Labs: Empire-Breakout Walkthrough",
-    "url": "/posts/proving-grounds-labs-empire-breakout-walkthrough/",
+    "url": "/offseclabs/2023/03/03/proving-grounds-labs-empire-breakout-walkthrough.html",
     "categories": "OffsecLabs",
     "tags": "CTF",
     "date": "2023-03-03 13:09:00 +0530",
@@ -36,7 +36,7 @@
   
   {
     "title": "Hack The Box: Stocker Walkthrough",
-    "url": "/posts/hack-the-box-stocker-walkthrough/",
+    "url": "/2023/03/02/hack-the-box-stocker-walkthrough.html",
     "categories": "",
     "tags": "",
     "date": "2023-03-02 01:16:00 +0530",
@@ -53,7 +53,7 @@
   
   {
     "title": "MongoDB cheetsheet",
-    "url": "/posts/mongodb-cheetsheet/",
+    "url": "/dbms/2023/02/28/mongodb-cheetsheet.html",
     "categories": "DBMS",
     "tags": "MongoDB",
     "date": "2023-02-28 12:49:00 +0530",
